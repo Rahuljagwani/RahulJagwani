@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone 👋, I'm Rahul Jagwani</h1>
-<h3 align="center">I am a Full Stack Developer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 - 🔗 How to reach me **rahuljagwani1012@gmail.com**
 
